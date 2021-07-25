@@ -1,5 +1,4 @@
-from flask import Flask
-from flask import json
+from flask import Flask, json
 import logging
 
 app = Flask(__name__)
